@@ -1,0 +1,14 @@
+C:\Users\manuel.campana\source\repos\trying\bin\Debug\net8.0\trying.exe
+C:\Users\manuel.campana\source\repos\trying\bin\Debug\net8.0\trying.deps.json
+C:\Users\manuel.campana\source\repos\trying\bin\Debug\net8.0\trying.runtimeconfig.json
+C:\Users\manuel.campana\source\repos\trying\bin\Debug\net8.0\trying.dll
+C:\Users\manuel.campana\source\repos\trying\bin\Debug\net8.0\trying.pdb
+C:\Users\manuel.campana\source\repos\trying\obj\Debug\net8.0\trying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuel.campana\source\repos\trying\obj\Debug\net8.0\trying.AssemblyInfoInputs.cache
+C:\Users\manuel.campana\source\repos\trying\obj\Debug\net8.0\trying.AssemblyInfo.cs
+C:\Users\manuel.campana\source\repos\trying\obj\Debug\net8.0\trying.csproj.CoreCompileInputs.cache
+C:\Users\manuel.campana\source\repos\trying\obj\Debug\net8.0\trying.dll
+C:\Users\manuel.campana\source\repos\trying\obj\Debug\net8.0\refint\trying.dll
+C:\Users\manuel.campana\source\repos\trying\obj\Debug\net8.0\trying.pdb
+C:\Users\manuel.campana\source\repos\trying\obj\Debug\net8.0\trying.genruntimeconfig.cache
+C:\Users\manuel.campana\source\repos\trying\obj\Debug\net8.0\ref\trying.dll

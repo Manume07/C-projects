@@ -1,0 +1,24 @@
+﻿namespace ContoBancario
+{
+    internal class Program
+    {
+        static void Main()
+        {
+
+            Console.WriteLine("Inserisci il nome del titolare: ");
+            string nomeTitolare = Console.ReadLine();
+
+            Console.WriteLine("Inserisci il saldo del conto bancario");
+            double saldoConto;
+            saldoConto = double.Parse(Console.ReadLine()); // riguardare
+            while (saldoConto <= 0)
+            {
+                Console.WriteLine("Il saldo del conto bancario non può essere minore o uguale a 0");
+                bool corretto;
+                corretto = double.TryParse(Console.ReadLine(saldoConto)); // riguardare
+            }
+            
+
+        }
+    }
+}

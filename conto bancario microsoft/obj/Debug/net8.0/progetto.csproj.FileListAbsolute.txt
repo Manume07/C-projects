@@ -1,0 +1,14 @@
+C:\Users\manuel.campana\Documents\GIT\progetto\bin\Debug\net8.0\progetto.exe
+C:\Users\manuel.campana\Documents\GIT\progetto\bin\Debug\net8.0\progetto.deps.json
+C:\Users\manuel.campana\Documents\GIT\progetto\bin\Debug\net8.0\progetto.runtimeconfig.json
+C:\Users\manuel.campana\Documents\GIT\progetto\bin\Debug\net8.0\progetto.dll
+C:\Users\manuel.campana\Documents\GIT\progetto\bin\Debug\net8.0\progetto.pdb
+C:\Users\manuel.campana\Documents\GIT\progetto\obj\Debug\net8.0\progetto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuel.campana\Documents\GIT\progetto\obj\Debug\net8.0\progetto.AssemblyInfoInputs.cache
+C:\Users\manuel.campana\Documents\GIT\progetto\obj\Debug\net8.0\progetto.AssemblyInfo.cs
+C:\Users\manuel.campana\Documents\GIT\progetto\obj\Debug\net8.0\progetto.csproj.CoreCompileInputs.cache
+C:\Users\manuel.campana\Documents\GIT\progetto\obj\Debug\net8.0\progetto.dll
+C:\Users\manuel.campana\Documents\GIT\progetto\obj\Debug\net8.0\refint\progetto.dll
+C:\Users\manuel.campana\Documents\GIT\progetto\obj\Debug\net8.0\progetto.pdb
+C:\Users\manuel.campana\Documents\GIT\progetto\obj\Debug\net8.0\progetto.genruntimeconfig.cache
+C:\Users\manuel.campana\Documents\GIT\progetto\obj\Debug\net8.0\ref\progetto.dll

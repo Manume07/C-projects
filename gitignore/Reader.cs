@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace gitignore
 {
-    internal class Program
+    internal class Reader
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
     }
 }

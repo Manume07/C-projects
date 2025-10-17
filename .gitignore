@@ -1,0 +1,94 @@
+## Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+## NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+*.nuget.props
+*.nuget.targets
+
+# NuGet v3 folders
+**/.nuget/packages/
+
+## ASP.NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Rider
+.idea/
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Folder config file
+Desktop.ini
+
+## VS Code
+.history/
+
+## TFS
+$tf/
+
+## Others
+*.dbmdl
+*.bak
+*.sql
+*.pdb
+*.cache
+*.class
+*.tmp
+
+# Entity Framework Migrations
+Migrations/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# JetBrains Rider
+.idea/
+
+# Local environment settings
+.env
+.env.*
+
+# IIS Express
+.vsconfig
+*.iis*
+
+# dotCover
+*.dotCover
+
+# StyleCop
+StyleCopReport.xml
+
+# Uncomment if using VS for Mac
+# .userprefs
+
+# Uncomment if using Docker
+# .dockerignore
+# docker-compose*
+
+# Uncomment if using Azure DevOps Pipelines
+# azure-pipelines.yml

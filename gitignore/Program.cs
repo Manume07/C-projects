@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace gitignore
 {
+    // Commento di prova
     internal class Program
     {
         static void Main(string[] args)
